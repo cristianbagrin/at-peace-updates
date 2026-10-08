@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "at-peace@cristianbagrin": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://raw.githubusercontent.com/cristianbagrin/at-peace-updates/main/xpi/at-peace-0.2.0.xpi",
+          "update_hash": "sha256:c0e1b99c8e4d3a2e1205f3cec0a1a63667fb3b53285a0b62f394c85618727756"
+        }
+      ]
+    }
+  }
+}
