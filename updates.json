@@ -13,6 +13,11 @@
           "update_hash": "sha256:ba0af21aa00c06b93aca5d98fd7d89cb5c70212fe723e8d3b6fba993124ae9b2"
         },
         {
+          "version": "0.2.2",
+          "update_link": "https://raw.githubusercontent.com/cristianbagrin/at-peace-updates/main/xpi/at-peace-0.2.2.xpi",
+          "update_hash": "sha256:ded4f2937dd36000df917819dab0bf33fcb905e16228e87b2ed49bf019fabc1b"
+        },
+        {
           "version": "0.3.0",
           "update_link": "https://raw.githubusercontent.com/cristianbagrin/at-peace-updates/main/xpi/at-peace-0.3.0.xpi",
           "update_hash": "sha256:82b40aa1e64aef832a9077b9d2cb3621b87e81d3955f2df206eec1ec0f7e3e68"
